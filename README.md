@@ -20,7 +20,7 @@ This project was a deep dive into **Reverse Engineering** YouTube's request sign
 - **Rate Limit Bypass:** Solved the "Format not available" issue on VDS IPs by optimizing extractor arguments and simulating clean client environments.
 
 ## 🚀 How to Run
-1. Clone the repo: `git clone <your-repo-link>`
+1. Clone the repo: `git clone https://github.com/kutyfuty/Youtube-Video-Downloader.git`
 2. Install dependencies: `pip install yt-dlp flask`
 3. Ensure **FFmpeg** is installed on your system.
 4. Run the app: `python app.py`
